@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>gcr.io.myfirstgcpapp-290812</groupId>
 	<artifactId>SpringBootDocker</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>SpringBootDocker</name>
 	<description>Demo project for Spring Boot</description>
 
